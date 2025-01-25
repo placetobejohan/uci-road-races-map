@@ -6,6 +6,8 @@ The goal of this project is to create a map of the UCI World Tour.
 
 - [ ] Get road races from UCI website: https://www.uci.org/api/calendar/upcoming?discipline=ROA
 
+The raw data is stored in a JSON format together with the date of the last update.
+
 ## Tech stack
 
 ### Python
