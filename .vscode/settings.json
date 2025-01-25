@@ -20,5 +20,8 @@
     },
     "peacock.color": "#9c354e",
     "editor.formatOnSave": true,
-    "editor.formatOnSaveMode": "modificationsIfAvailable"
+    "editor.formatOnSaveMode": "modificationsIfAvailable",
+    "[sql]": {
+        "editor.formatOnSave": true
+    }
 }

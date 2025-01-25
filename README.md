@@ -4,9 +4,17 @@ The goal of this project is to create a map of the UCI World Tour.
 
 ## Retrieve data
 
-- [ ] Get road races from UCI website: https://www.uci.org/api/calendar/upcoming?discipline=ROA
+Source is the UCI website: https://www.uci.org/api/calendar/upcoming?discipline=ROA
 
-The raw data is stored in a JSON format together with the date of the last update.
+The response contains a list of filters. To keep things simple we will only look at the UCI World Tour (seasonId = 989).
+
+The raw data is stored in JSONB format together with a timestamp of the last update.
+
+## Model data
+
+## Display data
+
+datasette setup
 
 ## Tech stack
 
