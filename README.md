@@ -12,6 +12,10 @@ The raw data is stored in JSONB format together with a timestamp of the last upd
 
 ## Model data
 
+### Start and end date
+
+Postgres' `daterange` would've been the best option but it is not supported by datasette so we will use two columns.
+
 ## Display data
 
 datasette setup

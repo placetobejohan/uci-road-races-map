@@ -34,8 +34,8 @@ def store_races(races_data, url):
 
         # Insert the JSON data into the races_raw table
         cur.execute(
-            "INSERT INTO uci_world_tour.races_raw (json_data, request_url) VALUES (%s, %s)",
-            (Json(races_data), url),
+            "INSERT INTO uci_world_tour.races_raw (request_url, json_data) VALUES (%s, %s)",
+            (url, Json(races_data)),
         )
 
         conn.commit()

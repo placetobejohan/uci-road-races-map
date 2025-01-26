@@ -1,0 +1,3612 @@
+[
+    {
+        "year": 2025,
+        "items": [
+            {
+                "day": 26,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Santos Tour Down Under",
+                        "dates": "21 Jan - 26 Jan 2025",
+                        "venue": "",
+                        "country": "AUS",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74181",
+                            "title": "Santos Tour Down Under",
+                            "isExternal": false
+                        },
+                        "continentCode": "OCE"
+                    }
+                ],
+                "month": 1,
+                "competitionDate": "2025-01-26T00:00:00Z"
+            }
+        ],
+        "month": 1,
+        "monthName": "January 2025",
+        "isCurrentMonth": true
+    },
+    {
+        "year": 2025,
+        "items": [
+            {
+                "day": 2,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Cadel Evans Great Ocean Road Race - Men",
+                        "dates": "02 Feb 2025",
+                        "venue": "",
+                        "country": "AUS",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74183",
+                            "title": "Cadel Evans Great Ocean Road Race - Men",
+                            "isExternal": false
+                        },
+                        "continentCode": "OCE"
+                    }
+                ],
+                "month": 2,
+                "competitionDate": "2025-02-02T00:00:00Z"
+            },
+            {
+                "day": 17,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "UAE Tour",
+                        "dates": "17 Feb - 23 Feb 2025",
+                        "venue": "",
+                        "country": "UAE",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74185",
+                            "title": "UAE Tour",
+                            "isExternal": false
+                        },
+                        "continentCode": "ASI"
+                    }
+                ],
+                "month": 2,
+                "competitionDate": "2025-02-17T00:00:00Z"
+            },
+            {
+                "day": 18,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "UAE Tour",
+                        "dates": "17 Feb - 23 Feb 2025",
+                        "venue": "",
+                        "country": "UAE",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74185",
+                            "title": "UAE Tour",
+                            "isExternal": false
+                        },
+                        "continentCode": "ASI"
+                    }
+                ],
+                "month": 2,
+                "competitionDate": "2025-02-18T00:00:00Z"
+            },
+            {
+                "day": 19,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "UAE Tour",
+                        "dates": "17 Feb - 23 Feb 2025",
+                        "venue": "",
+                        "country": "UAE",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74185",
+                            "title": "UAE Tour",
+                            "isExternal": false
+                        },
+                        "continentCode": "ASI"
+                    }
+                ],
+                "month": 2,
+                "competitionDate": "2025-02-19T00:00:00Z"
+            },
+            {
+                "day": 20,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "UAE Tour",
+                        "dates": "17 Feb - 23 Feb 2025",
+                        "venue": "",
+                        "country": "UAE",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74185",
+                            "title": "UAE Tour",
+                            "isExternal": false
+                        },
+                        "continentCode": "ASI"
+                    }
+                ],
+                "month": 2,
+                "competitionDate": "2025-02-20T00:00:00Z"
+            },
+            {
+                "day": 21,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "UAE Tour",
+                        "dates": "17 Feb - 23 Feb 2025",
+                        "venue": "",
+                        "country": "UAE",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74185",
+                            "title": "UAE Tour",
+                            "isExternal": false
+                        },
+                        "continentCode": "ASI"
+                    }
+                ],
+                "month": 2,
+                "competitionDate": "2025-02-21T00:00:00Z"
+            },
+            {
+                "day": 22,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "UAE Tour",
+                        "dates": "17 Feb - 23 Feb 2025",
+                        "venue": "",
+                        "country": "UAE",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74185",
+                            "title": "UAE Tour",
+                            "isExternal": false
+                        },
+                        "continentCode": "ASI"
+                    }
+                ],
+                "month": 2,
+                "competitionDate": "2025-02-22T00:00:00Z"
+            },
+            {
+                "day": 23,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "UAE Tour",
+                        "dates": "17 Feb - 23 Feb 2025",
+                        "venue": "",
+                        "country": "UAE",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74185",
+                            "title": "UAE Tour",
+                            "isExternal": false
+                        },
+                        "continentCode": "ASI"
+                    }
+                ],
+                "month": 2,
+                "competitionDate": "2025-02-23T00:00:00Z"
+            }
+        ],
+        "month": 2,
+        "monthName": "February 2025",
+        "isCurrentMonth": false
+    },
+    {
+        "year": 2025,
+        "items": [
+            {
+                "day": 1,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Omloop Nieuwsblad",
+                        "dates": "01 Mar 2025",
+                        "venue": "",
+                        "country": "BEL",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74186",
+                            "title": "Omloop Nieuwsblad",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 3,
+                "competitionDate": "2025-03-01T00:00:00Z"
+            },
+            {
+                "day": 8,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Strade Bianche",
+                        "dates": "08 Mar 2025",
+                        "venue": "",
+                        "country": "ITA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74188",
+                            "title": "Strade Bianche",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 3,
+                "competitionDate": "2025-03-08T00:00:00Z"
+            },
+            {
+                "day": 9,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Paris-Nice",
+                        "dates": "09 Mar - 16 Mar 2025",
+                        "venue": "",
+                        "country": "FRA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74190",
+                            "title": "Paris-Nice",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 3,
+                "competitionDate": "2025-03-09T00:00:00Z"
+            },
+            {
+                "day": 10,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Paris-Nice",
+                        "dates": "09 Mar - 16 Mar 2025",
+                        "venue": "",
+                        "country": "FRA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74190",
+                            "title": "Paris-Nice",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    },
+                    {
+                        "name": "Tirreno-Adriatico",
+                        "dates": "10 Mar - 16 Mar 2025",
+                        "venue": "",
+                        "country": "ITA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74191",
+                            "title": "Tirreno-Adriatico",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 3,
+                "competitionDate": "2025-03-10T00:00:00Z"
+            },
+            {
+                "day": 11,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Paris-Nice",
+                        "dates": "09 Mar - 16 Mar 2025",
+                        "venue": "",
+                        "country": "FRA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74190",
+                            "title": "Paris-Nice",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    },
+                    {
+                        "name": "Tirreno-Adriatico",
+                        "dates": "10 Mar - 16 Mar 2025",
+                        "venue": "",
+                        "country": "ITA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74191",
+                            "title": "Tirreno-Adriatico",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 3,
+                "competitionDate": "2025-03-11T00:00:00Z"
+            },
+            {
+                "day": 12,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Paris-Nice",
+                        "dates": "09 Mar - 16 Mar 2025",
+                        "venue": "",
+                        "country": "FRA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74190",
+                            "title": "Paris-Nice",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    },
+                    {
+                        "name": "Tirreno-Adriatico",
+                        "dates": "10 Mar - 16 Mar 2025",
+                        "venue": "",
+                        "country": "ITA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74191",
+                            "title": "Tirreno-Adriatico",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 3,
+                "competitionDate": "2025-03-12T00:00:00Z"
+            },
+            {
+                "day": 13,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Paris-Nice",
+                        "dates": "09 Mar - 16 Mar 2025",
+                        "venue": "",
+                        "country": "FRA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74190",
+                            "title": "Paris-Nice",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    },
+                    {
+                        "name": "Tirreno-Adriatico",
+                        "dates": "10 Mar - 16 Mar 2025",
+                        "venue": "",
+                        "country": "ITA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74191",
+                            "title": "Tirreno-Adriatico",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 3,
+                "competitionDate": "2025-03-13T00:00:00Z"
+            },
+            {
+                "day": 14,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Paris-Nice",
+                        "dates": "09 Mar - 16 Mar 2025",
+                        "venue": "",
+                        "country": "FRA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74190",
+                            "title": "Paris-Nice",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    },
+                    {
+                        "name": "Tirreno-Adriatico",
+                        "dates": "10 Mar - 16 Mar 2025",
+                        "venue": "",
+                        "country": "ITA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74191",
+                            "title": "Tirreno-Adriatico",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 3,
+                "competitionDate": "2025-03-14T00:00:00Z"
+            },
+            {
+                "day": 15,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Paris-Nice",
+                        "dates": "09 Mar - 16 Mar 2025",
+                        "venue": "",
+                        "country": "FRA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74190",
+                            "title": "Paris-Nice",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    },
+                    {
+                        "name": "Tirreno-Adriatico",
+                        "dates": "10 Mar - 16 Mar 2025",
+                        "venue": "",
+                        "country": "ITA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74191",
+                            "title": "Tirreno-Adriatico",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 3,
+                "competitionDate": "2025-03-15T00:00:00Z"
+            },
+            {
+                "day": 16,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Paris-Nice",
+                        "dates": "09 Mar - 16 Mar 2025",
+                        "venue": "",
+                        "country": "FRA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74190",
+                            "title": "Paris-Nice",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    },
+                    {
+                        "name": "Tirreno-Adriatico",
+                        "dates": "10 Mar - 16 Mar 2025",
+                        "venue": "",
+                        "country": "ITA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74191",
+                            "title": "Tirreno-Adriatico",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 3,
+                "competitionDate": "2025-03-16T00:00:00Z"
+            },
+            {
+                "day": 22,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Milano-Sanremo",
+                        "dates": "22 Mar 2025",
+                        "venue": "",
+                        "country": "ITA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74193",
+                            "title": "Milano-Sanremo",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 3,
+                "competitionDate": "2025-03-22T00:00:00Z"
+            },
+            {
+                "day": 24,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Volta Ciclista a Catalunya",
+                        "dates": "24 Mar - 30 Mar 2025",
+                        "venue": "",
+                        "country": "ESP",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74196",
+                            "title": "Volta Ciclista a Catalunya",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 3,
+                "competitionDate": "2025-03-24T00:00:00Z"
+            },
+            {
+                "day": 25,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Volta Ciclista a Catalunya",
+                        "dates": "24 Mar - 30 Mar 2025",
+                        "venue": "",
+                        "country": "ESP",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74196",
+                            "title": "Volta Ciclista a Catalunya",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 3,
+                "competitionDate": "2025-03-25T00:00:00Z"
+            },
+            {
+                "day": 26,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Volta Ciclista a Catalunya",
+                        "dates": "24 Mar - 30 Mar 2025",
+                        "venue": "",
+                        "country": "ESP",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74196",
+                            "title": "Volta Ciclista a Catalunya",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    },
+                    {
+                        "name": "Classic Brugge-De Panne",
+                        "dates": "26 Mar 2025",
+                        "venue": "",
+                        "country": "BEL",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74197",
+                            "title": "Classic Brugge-De Panne",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 3,
+                "competitionDate": "2025-03-26T00:00:00Z"
+            },
+            {
+                "day": 27,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Volta Ciclista a Catalunya",
+                        "dates": "24 Mar - 30 Mar 2025",
+                        "venue": "",
+                        "country": "ESP",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74196",
+                            "title": "Volta Ciclista a Catalunya",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 3,
+                "competitionDate": "2025-03-27T00:00:00Z"
+            },
+            {
+                "day": 28,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Volta Ciclista a Catalunya",
+                        "dates": "24 Mar - 30 Mar 2025",
+                        "venue": "",
+                        "country": "ESP",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74196",
+                            "title": "Volta Ciclista a Catalunya",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    },
+                    {
+                        "name": "E3 Saxo Classic",
+                        "dates": "28 Mar 2025",
+                        "venue": "",
+                        "country": "BEL",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74199",
+                            "title": "E3 Saxo Classic",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 3,
+                "competitionDate": "2025-03-28T00:00:00Z"
+            },
+            {
+                "day": 29,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Volta Ciclista a Catalunya",
+                        "dates": "24 Mar - 30 Mar 2025",
+                        "venue": "",
+                        "country": "ESP",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74196",
+                            "title": "Volta Ciclista a Catalunya",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 3,
+                "competitionDate": "2025-03-29T00:00:00Z"
+            },
+            {
+                "day": 30,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Volta Ciclista a Catalunya",
+                        "dates": "24 Mar - 30 Mar 2025",
+                        "venue": "",
+                        "country": "ESP",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74196",
+                            "title": "Volta Ciclista a Catalunya",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    },
+                    {
+                        "name": "Gent-Wevelgem in Flanders Fields",
+                        "dates": "30 Mar 2025",
+                        "venue": "",
+                        "country": "BEL",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74200",
+                            "title": "Gent-Wevelgem in Flanders Fields",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 3,
+                "competitionDate": "2025-03-30T00:00:00Z"
+            }
+        ],
+        "month": 3,
+        "monthName": "March 2025",
+        "isCurrentMonth": false
+    },
+    {
+        "year": 2025,
+        "items": [
+            {
+                "day": 2,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Dwars door Vlaanderen - A travers la Flandre",
+                        "dates": "02 Apr 2025",
+                        "venue": "",
+                        "country": "BEL",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74202",
+                            "title": "Dwars door Vlaanderen - A travers la Flandre",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 4,
+                "competitionDate": "2025-04-02T00:00:00Z"
+            },
+            {
+                "day": 6,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Ronde van Vlaanderen",
+                        "dates": "06 Apr 2025",
+                        "venue": "",
+                        "country": "BEL",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74204",
+                            "title": "Ronde van Vlaanderen",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 4,
+                "competitionDate": "2025-04-06T00:00:00Z"
+            },
+            {
+                "day": 7,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Itzulia Basque Country",
+                        "dates": "07 Apr - 12 Apr 2025",
+                        "venue": "",
+                        "country": "ESP",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74205",
+                            "title": "Itzulia Basque Country",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 4,
+                "competitionDate": "2025-04-07T00:00:00Z"
+            },
+            {
+                "day": 8,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Itzulia Basque Country",
+                        "dates": "07 Apr - 12 Apr 2025",
+                        "venue": "",
+                        "country": "ESP",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74205",
+                            "title": "Itzulia Basque Country",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 4,
+                "competitionDate": "2025-04-08T00:00:00Z"
+            },
+            {
+                "day": 9,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Itzulia Basque Country",
+                        "dates": "07 Apr - 12 Apr 2025",
+                        "venue": "",
+                        "country": "ESP",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74205",
+                            "title": "Itzulia Basque Country",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 4,
+                "competitionDate": "2025-04-09T00:00:00Z"
+            },
+            {
+                "day": 10,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Itzulia Basque Country",
+                        "dates": "07 Apr - 12 Apr 2025",
+                        "venue": "",
+                        "country": "ESP",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74205",
+                            "title": "Itzulia Basque Country",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 4,
+                "competitionDate": "2025-04-10T00:00:00Z"
+            },
+            {
+                "day": 11,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Itzulia Basque Country",
+                        "dates": "07 Apr - 12 Apr 2025",
+                        "venue": "",
+                        "country": "ESP",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74205",
+                            "title": "Itzulia Basque Country",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 4,
+                "competitionDate": "2025-04-11T00:00:00Z"
+            },
+            {
+                "day": 12,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Itzulia Basque Country",
+                        "dates": "07 Apr - 12 Apr 2025",
+                        "venue": "",
+                        "country": "ESP",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74205",
+                            "title": "Itzulia Basque Country",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 4,
+                "competitionDate": "2025-04-12T00:00:00Z"
+            },
+            {
+                "day": 13,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Paris-Roubaix",
+                        "dates": "13 Apr 2025",
+                        "venue": "",
+                        "country": "FRA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74207",
+                            "title": "Paris-Roubaix",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 4,
+                "competitionDate": "2025-04-13T00:00:00Z"
+            },
+            {
+                "day": 20,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Amstel Gold Race",
+                        "dates": "20 Apr 2025",
+                        "venue": "",
+                        "country": "NED",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74208",
+                            "title": "Amstel Gold Race",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 4,
+                "competitionDate": "2025-04-20T00:00:00Z"
+            },
+            {
+                "day": 23,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "La Flèche Wallonne",
+                        "dates": "23 Apr 2025",
+                        "venue": "",
+                        "country": "BEL",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74211",
+                            "title": "La Flèche Wallonne",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 4,
+                "competitionDate": "2025-04-23T00:00:00Z"
+            },
+            {
+                "day": 27,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Liège-Bastogne-Liège",
+                        "dates": "27 Apr 2025",
+                        "venue": "",
+                        "country": "BEL",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74212",
+                            "title": "Liège-Bastogne-Liège",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 4,
+                "competitionDate": "2025-04-27T00:00:00Z"
+            },
+            {
+                "day": 29,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Tour de Romandie",
+                        "dates": "29 Apr - 04 May 2025",
+                        "venue": "",
+                        "country": "SUI",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74214",
+                            "title": "Tour de Romandie",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 4,
+                "competitionDate": "2025-04-29T00:00:00Z"
+            },
+            {
+                "day": 30,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Tour de Romandie",
+                        "dates": "29 Apr - 04 May 2025",
+                        "venue": "",
+                        "country": "SUI",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74214",
+                            "title": "Tour de Romandie",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 4,
+                "competitionDate": "2025-04-30T00:00:00Z"
+            }
+        ],
+        "month": 4,
+        "monthName": "April 2025",
+        "isCurrentMonth": false
+    },
+    {
+        "year": 2025,
+        "items": [
+            {
+                "day": 1,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Tour de Romandie",
+                        "dates": "29 Apr - 04 May 2025",
+                        "venue": "",
+                        "country": "SUI",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74214",
+                            "title": "Tour de Romandie",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    },
+                    {
+                        "name": "Eschborn-Frankfurt",
+                        "dates": "01 May 2025",
+                        "venue": "",
+                        "country": "GER",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74215",
+                            "title": "Eschborn-Frankfurt",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 5,
+                "competitionDate": "2025-05-01T00:00:00Z"
+            },
+            {
+                "day": 2,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Tour de Romandie",
+                        "dates": "29 Apr - 04 May 2025",
+                        "venue": "",
+                        "country": "SUI",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74214",
+                            "title": "Tour de Romandie",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 5,
+                "competitionDate": "2025-05-02T00:00:00Z"
+            },
+            {
+                "day": 3,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Tour de Romandie",
+                        "dates": "29 Apr - 04 May 2025",
+                        "venue": "",
+                        "country": "SUI",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74214",
+                            "title": "Tour de Romandie",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 5,
+                "competitionDate": "2025-05-03T00:00:00Z"
+            },
+            {
+                "day": 4,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Tour de Romandie",
+                        "dates": "29 Apr - 04 May 2025",
+                        "venue": "",
+                        "country": "SUI",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74214",
+                            "title": "Tour de Romandie",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 5,
+                "competitionDate": "2025-05-04T00:00:00Z"
+            },
+            {
+                "day": 9,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Giro d'Italia",
+                        "dates": "09 May - 01 Jun 2025",
+                        "venue": "",
+                        "country": "ITA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74217",
+                            "title": "Giro d'Italia",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 5,
+                "competitionDate": "2025-05-09T00:00:00Z"
+            },
+            {
+                "day": 10,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Giro d'Italia",
+                        "dates": "09 May - 01 Jun 2025",
+                        "venue": "",
+                        "country": "ITA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74217",
+                            "title": "Giro d'Italia",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 5,
+                "competitionDate": "2025-05-10T00:00:00Z"
+            },
+            {
+                "day": 11,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Giro d'Italia",
+                        "dates": "09 May - 01 Jun 2025",
+                        "venue": "",
+                        "country": "ITA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74217",
+                            "title": "Giro d'Italia",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 5,
+                "competitionDate": "2025-05-11T00:00:00Z"
+            },
+            {
+                "day": 12,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Giro d'Italia",
+                        "dates": "09 May - 01 Jun 2025",
+                        "venue": "",
+                        "country": "ITA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74217",
+                            "title": "Giro d'Italia",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 5,
+                "competitionDate": "2025-05-12T00:00:00Z"
+            },
+            {
+                "day": 13,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Giro d'Italia",
+                        "dates": "09 May - 01 Jun 2025",
+                        "venue": "",
+                        "country": "ITA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74217",
+                            "title": "Giro d'Italia",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 5,
+                "competitionDate": "2025-05-13T00:00:00Z"
+            },
+            {
+                "day": 14,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Giro d'Italia",
+                        "dates": "09 May - 01 Jun 2025",
+                        "venue": "",
+                        "country": "ITA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74217",
+                            "title": "Giro d'Italia",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 5,
+                "competitionDate": "2025-05-14T00:00:00Z"
+            },
+            {
+                "day": 15,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Giro d'Italia",
+                        "dates": "09 May - 01 Jun 2025",
+                        "venue": "",
+                        "country": "ITA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74217",
+                            "title": "Giro d'Italia",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 5,
+                "competitionDate": "2025-05-15T00:00:00Z"
+            },
+            {
+                "day": 16,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Giro d'Italia",
+                        "dates": "09 May - 01 Jun 2025",
+                        "venue": "",
+                        "country": "ITA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74217",
+                            "title": "Giro d'Italia",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 5,
+                "competitionDate": "2025-05-16T00:00:00Z"
+            },
+            {
+                "day": 17,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Giro d'Italia",
+                        "dates": "09 May - 01 Jun 2025",
+                        "venue": "",
+                        "country": "ITA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74217",
+                            "title": "Giro d'Italia",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 5,
+                "competitionDate": "2025-05-17T00:00:00Z"
+            },
+            {
+                "day": 18,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Giro d'Italia",
+                        "dates": "09 May - 01 Jun 2025",
+                        "venue": "",
+                        "country": "ITA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74217",
+                            "title": "Giro d'Italia",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 5,
+                "competitionDate": "2025-05-18T00:00:00Z"
+            },
+            {
+                "day": 19,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Giro d'Italia",
+                        "dates": "09 May - 01 Jun 2025",
+                        "venue": "",
+                        "country": "ITA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74217",
+                            "title": "Giro d'Italia",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 5,
+                "competitionDate": "2025-05-19T00:00:00Z"
+            },
+            {
+                "day": 20,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Giro d'Italia",
+                        "dates": "09 May - 01 Jun 2025",
+                        "venue": "",
+                        "country": "ITA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74217",
+                            "title": "Giro d'Italia",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 5,
+                "competitionDate": "2025-05-20T00:00:00Z"
+            },
+            {
+                "day": 21,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Giro d'Italia",
+                        "dates": "09 May - 01 Jun 2025",
+                        "venue": "",
+                        "country": "ITA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74217",
+                            "title": "Giro d'Italia",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 5,
+                "competitionDate": "2025-05-21T00:00:00Z"
+            },
+            {
+                "day": 22,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Giro d'Italia",
+                        "dates": "09 May - 01 Jun 2025",
+                        "venue": "",
+                        "country": "ITA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74217",
+                            "title": "Giro d'Italia",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 5,
+                "competitionDate": "2025-05-22T00:00:00Z"
+            },
+            {
+                "day": 23,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Giro d'Italia",
+                        "dates": "09 May - 01 Jun 2025",
+                        "venue": "",
+                        "country": "ITA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74217",
+                            "title": "Giro d'Italia",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 5,
+                "competitionDate": "2025-05-23T00:00:00Z"
+            },
+            {
+                "day": 24,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Giro d'Italia",
+                        "dates": "09 May - 01 Jun 2025",
+                        "venue": "",
+                        "country": "ITA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74217",
+                            "title": "Giro d'Italia",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 5,
+                "competitionDate": "2025-05-24T00:00:00Z"
+            },
+            {
+                "day": 25,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Giro d'Italia",
+                        "dates": "09 May - 01 Jun 2025",
+                        "venue": "",
+                        "country": "ITA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74217",
+                            "title": "Giro d'Italia",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 5,
+                "competitionDate": "2025-05-25T00:00:00Z"
+            },
+            {
+                "day": 26,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Giro d'Italia",
+                        "dates": "09 May - 01 Jun 2025",
+                        "venue": "",
+                        "country": "ITA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74217",
+                            "title": "Giro d'Italia",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 5,
+                "competitionDate": "2025-05-26T00:00:00Z"
+            },
+            {
+                "day": 27,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Giro d'Italia",
+                        "dates": "09 May - 01 Jun 2025",
+                        "venue": "",
+                        "country": "ITA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74217",
+                            "title": "Giro d'Italia",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 5,
+                "competitionDate": "2025-05-27T00:00:00Z"
+            },
+            {
+                "day": 28,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Giro d'Italia",
+                        "dates": "09 May - 01 Jun 2025",
+                        "venue": "",
+                        "country": "ITA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74217",
+                            "title": "Giro d'Italia",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 5,
+                "competitionDate": "2025-05-28T00:00:00Z"
+            },
+            {
+                "day": 29,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Giro d'Italia",
+                        "dates": "09 May - 01 Jun 2025",
+                        "venue": "",
+                        "country": "ITA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74217",
+                            "title": "Giro d'Italia",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 5,
+                "competitionDate": "2025-05-29T00:00:00Z"
+            },
+            {
+                "day": 30,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Giro d'Italia",
+                        "dates": "09 May - 01 Jun 2025",
+                        "venue": "",
+                        "country": "ITA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74217",
+                            "title": "Giro d'Italia",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 5,
+                "competitionDate": "2025-05-30T00:00:00Z"
+            },
+            {
+                "day": 31,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Giro d'Italia",
+                        "dates": "09 May - 01 Jun 2025",
+                        "venue": "",
+                        "country": "ITA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74217",
+                            "title": "Giro d'Italia",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 5,
+                "competitionDate": "2025-05-31T00:00:00Z"
+            }
+        ],
+        "month": 5,
+        "monthName": "May 2025",
+        "isCurrentMonth": false
+    },
+    {
+        "year": 2025,
+        "items": [
+            {
+                "day": 1,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Giro d'Italia",
+                        "dates": "09 May - 01 Jun 2025",
+                        "venue": "",
+                        "country": "ITA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74217",
+                            "title": "Giro d'Italia",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 6,
+                "competitionDate": "2025-06-01T00:00:00Z"
+            },
+            {
+                "day": 8,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Critérium du Dauphiné",
+                        "dates": "08 Jun - 15 Jun 2025",
+                        "venue": "",
+                        "country": "FRA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74222",
+                            "title": "Critérium du Dauphiné",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 6,
+                "competitionDate": "2025-06-08T00:00:00Z"
+            },
+            {
+                "day": 9,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Critérium du Dauphiné",
+                        "dates": "08 Jun - 15 Jun 2025",
+                        "venue": "",
+                        "country": "FRA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74222",
+                            "title": "Critérium du Dauphiné",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 6,
+                "competitionDate": "2025-06-09T00:00:00Z"
+            },
+            {
+                "day": 10,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Critérium du Dauphiné",
+                        "dates": "08 Jun - 15 Jun 2025",
+                        "venue": "",
+                        "country": "FRA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74222",
+                            "title": "Critérium du Dauphiné",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 6,
+                "competitionDate": "2025-06-10T00:00:00Z"
+            },
+            {
+                "day": 11,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Critérium du Dauphiné",
+                        "dates": "08 Jun - 15 Jun 2025",
+                        "venue": "",
+                        "country": "FRA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74222",
+                            "title": "Critérium du Dauphiné",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 6,
+                "competitionDate": "2025-06-11T00:00:00Z"
+            },
+            {
+                "day": 12,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Critérium du Dauphiné",
+                        "dates": "08 Jun - 15 Jun 2025",
+                        "venue": "",
+                        "country": "FRA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74222",
+                            "title": "Critérium du Dauphiné",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 6,
+                "competitionDate": "2025-06-12T00:00:00Z"
+            },
+            {
+                "day": 13,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Critérium du Dauphiné",
+                        "dates": "08 Jun - 15 Jun 2025",
+                        "venue": "",
+                        "country": "FRA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74222",
+                            "title": "Critérium du Dauphiné",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 6,
+                "competitionDate": "2025-06-13T00:00:00Z"
+            },
+            {
+                "day": 14,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Critérium du Dauphiné",
+                        "dates": "08 Jun - 15 Jun 2025",
+                        "venue": "",
+                        "country": "FRA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74222",
+                            "title": "Critérium du Dauphiné",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 6,
+                "competitionDate": "2025-06-14T00:00:00Z"
+            },
+            {
+                "day": 15,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Critérium du Dauphiné",
+                        "dates": "08 Jun - 15 Jun 2025",
+                        "venue": "",
+                        "country": "FRA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74222",
+                            "title": "Critérium du Dauphiné",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    },
+                    {
+                        "name": "Tour de Suisse",
+                        "dates": "15 Jun - 22 Jun 2025",
+                        "venue": "",
+                        "country": "SUI",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74224",
+                            "title": "Tour de Suisse",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 6,
+                "competitionDate": "2025-06-15T00:00:00Z"
+            },
+            {
+                "day": 16,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Tour de Suisse",
+                        "dates": "15 Jun - 22 Jun 2025",
+                        "venue": "",
+                        "country": "SUI",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74224",
+                            "title": "Tour de Suisse",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 6,
+                "competitionDate": "2025-06-16T00:00:00Z"
+            },
+            {
+                "day": 17,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Tour de Suisse",
+                        "dates": "15 Jun - 22 Jun 2025",
+                        "venue": "",
+                        "country": "SUI",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74224",
+                            "title": "Tour de Suisse",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 6,
+                "competitionDate": "2025-06-17T00:00:00Z"
+            },
+            {
+                "day": 18,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Tour de Suisse",
+                        "dates": "15 Jun - 22 Jun 2025",
+                        "venue": "",
+                        "country": "SUI",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74224",
+                            "title": "Tour de Suisse",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 6,
+                "competitionDate": "2025-06-18T00:00:00Z"
+            },
+            {
+                "day": 19,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Tour de Suisse",
+                        "dates": "15 Jun - 22 Jun 2025",
+                        "venue": "",
+                        "country": "SUI",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74224",
+                            "title": "Tour de Suisse",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 6,
+                "competitionDate": "2025-06-19T00:00:00Z"
+            },
+            {
+                "day": 20,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Tour de Suisse",
+                        "dates": "15 Jun - 22 Jun 2025",
+                        "venue": "",
+                        "country": "SUI",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74224",
+                            "title": "Tour de Suisse",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 6,
+                "competitionDate": "2025-06-20T00:00:00Z"
+            },
+            {
+                "day": 21,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Tour de Suisse",
+                        "dates": "15 Jun - 22 Jun 2025",
+                        "venue": "",
+                        "country": "SUI",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74224",
+                            "title": "Tour de Suisse",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 6,
+                "competitionDate": "2025-06-21T00:00:00Z"
+            },
+            {
+                "day": 22,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Tour de Suisse",
+                        "dates": "15 Jun - 22 Jun 2025",
+                        "venue": "",
+                        "country": "SUI",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74224",
+                            "title": "Tour de Suisse",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    },
+                    {
+                        "name": "Copenhagen Sprint",
+                        "dates": "22 Jun 2025",
+                        "venue": "",
+                        "country": "DEN",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74226",
+                            "title": "Copenhagen Sprint",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 6,
+                "competitionDate": "2025-06-22T00:00:00Z"
+            }
+        ],
+        "month": 6,
+        "monthName": "June 2025",
+        "isCurrentMonth": false
+    },
+    {
+        "year": 2025,
+        "items": [
+            {
+                "day": 5,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Tour de France",
+                        "dates": "05 Jul - 27 Jul 2025",
+                        "venue": "",
+                        "country": "FRA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74227",
+                            "title": "Tour de France",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 7,
+                "competitionDate": "2025-07-05T00:00:00Z"
+            },
+            {
+                "day": 6,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Tour de France",
+                        "dates": "05 Jul - 27 Jul 2025",
+                        "venue": "",
+                        "country": "FRA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74227",
+                            "title": "Tour de France",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 7,
+                "competitionDate": "2025-07-06T00:00:00Z"
+            },
+            {
+                "day": 7,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Tour de France",
+                        "dates": "05 Jul - 27 Jul 2025",
+                        "venue": "",
+                        "country": "FRA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74227",
+                            "title": "Tour de France",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 7,
+                "competitionDate": "2025-07-07T00:00:00Z"
+            },
+            {
+                "day": 8,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Tour de France",
+                        "dates": "05 Jul - 27 Jul 2025",
+                        "venue": "",
+                        "country": "FRA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74227",
+                            "title": "Tour de France",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 7,
+                "competitionDate": "2025-07-08T00:00:00Z"
+            },
+            {
+                "day": 9,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Tour de France",
+                        "dates": "05 Jul - 27 Jul 2025",
+                        "venue": "",
+                        "country": "FRA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74227",
+                            "title": "Tour de France",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 7,
+                "competitionDate": "2025-07-09T00:00:00Z"
+            },
+            {
+                "day": 10,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Tour de France",
+                        "dates": "05 Jul - 27 Jul 2025",
+                        "venue": "",
+                        "country": "FRA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74227",
+                            "title": "Tour de France",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 7,
+                "competitionDate": "2025-07-10T00:00:00Z"
+            },
+            {
+                "day": 11,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Tour de France",
+                        "dates": "05 Jul - 27 Jul 2025",
+                        "venue": "",
+                        "country": "FRA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74227",
+                            "title": "Tour de France",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 7,
+                "competitionDate": "2025-07-11T00:00:00Z"
+            },
+            {
+                "day": 12,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Tour de France",
+                        "dates": "05 Jul - 27 Jul 2025",
+                        "venue": "",
+                        "country": "FRA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74227",
+                            "title": "Tour de France",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 7,
+                "competitionDate": "2025-07-12T00:00:00Z"
+            },
+            {
+                "day": 13,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Tour de France",
+                        "dates": "05 Jul - 27 Jul 2025",
+                        "venue": "",
+                        "country": "FRA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74227",
+                            "title": "Tour de France",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 7,
+                "competitionDate": "2025-07-13T00:00:00Z"
+            },
+            {
+                "day": 14,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Tour de France",
+                        "dates": "05 Jul - 27 Jul 2025",
+                        "venue": "",
+                        "country": "FRA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74227",
+                            "title": "Tour de France",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 7,
+                "competitionDate": "2025-07-14T00:00:00Z"
+            },
+            {
+                "day": 15,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Tour de France",
+                        "dates": "05 Jul - 27 Jul 2025",
+                        "venue": "",
+                        "country": "FRA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74227",
+                            "title": "Tour de France",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 7,
+                "competitionDate": "2025-07-15T00:00:00Z"
+            },
+            {
+                "day": 16,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Tour de France",
+                        "dates": "05 Jul - 27 Jul 2025",
+                        "venue": "",
+                        "country": "FRA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74227",
+                            "title": "Tour de France",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 7,
+                "competitionDate": "2025-07-16T00:00:00Z"
+            },
+            {
+                "day": 17,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Tour de France",
+                        "dates": "05 Jul - 27 Jul 2025",
+                        "venue": "",
+                        "country": "FRA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74227",
+                            "title": "Tour de France",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 7,
+                "competitionDate": "2025-07-17T00:00:00Z"
+            },
+            {
+                "day": 18,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Tour de France",
+                        "dates": "05 Jul - 27 Jul 2025",
+                        "venue": "",
+                        "country": "FRA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74227",
+                            "title": "Tour de France",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 7,
+                "competitionDate": "2025-07-18T00:00:00Z"
+            },
+            {
+                "day": 19,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Tour de France",
+                        "dates": "05 Jul - 27 Jul 2025",
+                        "venue": "",
+                        "country": "FRA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74227",
+                            "title": "Tour de France",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 7,
+                "competitionDate": "2025-07-19T00:00:00Z"
+            },
+            {
+                "day": 20,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Tour de France",
+                        "dates": "05 Jul - 27 Jul 2025",
+                        "venue": "",
+                        "country": "FRA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74227",
+                            "title": "Tour de France",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 7,
+                "competitionDate": "2025-07-20T00:00:00Z"
+            },
+            {
+                "day": 21,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Tour de France",
+                        "dates": "05 Jul - 27 Jul 2025",
+                        "venue": "",
+                        "country": "FRA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74227",
+                            "title": "Tour de France",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 7,
+                "competitionDate": "2025-07-21T00:00:00Z"
+            },
+            {
+                "day": 22,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Tour de France",
+                        "dates": "05 Jul - 27 Jul 2025",
+                        "venue": "",
+                        "country": "FRA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74227",
+                            "title": "Tour de France",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 7,
+                "competitionDate": "2025-07-22T00:00:00Z"
+            },
+            {
+                "day": 23,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Tour de France",
+                        "dates": "05 Jul - 27 Jul 2025",
+                        "venue": "",
+                        "country": "FRA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74227",
+                            "title": "Tour de France",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 7,
+                "competitionDate": "2025-07-23T00:00:00Z"
+            },
+            {
+                "day": 24,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Tour de France",
+                        "dates": "05 Jul - 27 Jul 2025",
+                        "venue": "",
+                        "country": "FRA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74227",
+                            "title": "Tour de France",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 7,
+                "competitionDate": "2025-07-24T00:00:00Z"
+            },
+            {
+                "day": 25,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Tour de France",
+                        "dates": "05 Jul - 27 Jul 2025",
+                        "venue": "",
+                        "country": "FRA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74227",
+                            "title": "Tour de France",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 7,
+                "competitionDate": "2025-07-25T00:00:00Z"
+            },
+            {
+                "day": 26,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Tour de France",
+                        "dates": "05 Jul - 27 Jul 2025",
+                        "venue": "",
+                        "country": "FRA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74227",
+                            "title": "Tour de France",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 7,
+                "competitionDate": "2025-07-26T00:00:00Z"
+            },
+            {
+                "day": 27,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Tour de France",
+                        "dates": "05 Jul - 27 Jul 2025",
+                        "venue": "",
+                        "country": "FRA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74227",
+                            "title": "Tour de France",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 7,
+                "competitionDate": "2025-07-27T00:00:00Z"
+            }
+        ],
+        "month": 7,
+        "monthName": "July 2025",
+        "isCurrentMonth": false
+    },
+    {
+        "year": 2025,
+        "items": [
+            {
+                "day": 2,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Donostia San Sebastian Klasikoa",
+                        "dates": "02 Aug 2025",
+                        "venue": "",
+                        "country": "ESP",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74230",
+                            "title": "Donostia San Sebastian Klasikoa",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 8,
+                "competitionDate": "2025-08-02T00:00:00Z"
+            },
+            {
+                "day": 4,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Tour de Pologne",
+                        "dates": "04 Aug - 10 Aug 2025",
+                        "venue": "",
+                        "country": "POL",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74231",
+                            "title": "Tour de Pologne",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 8,
+                "competitionDate": "2025-08-04T00:00:00Z"
+            },
+            {
+                "day": 5,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Tour de Pologne",
+                        "dates": "04 Aug - 10 Aug 2025",
+                        "venue": "",
+                        "country": "POL",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74231",
+                            "title": "Tour de Pologne",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 8,
+                "competitionDate": "2025-08-05T00:00:00Z"
+            },
+            {
+                "day": 6,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Tour de Pologne",
+                        "dates": "04 Aug - 10 Aug 2025",
+                        "venue": "",
+                        "country": "POL",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74231",
+                            "title": "Tour de Pologne",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 8,
+                "competitionDate": "2025-08-06T00:00:00Z"
+            },
+            {
+                "day": 7,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Tour de Pologne",
+                        "dates": "04 Aug - 10 Aug 2025",
+                        "venue": "",
+                        "country": "POL",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74231",
+                            "title": "Tour de Pologne",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 8,
+                "competitionDate": "2025-08-07T00:00:00Z"
+            },
+            {
+                "day": 8,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Tour de Pologne",
+                        "dates": "04 Aug - 10 Aug 2025",
+                        "venue": "",
+                        "country": "POL",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74231",
+                            "title": "Tour de Pologne",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 8,
+                "competitionDate": "2025-08-08T00:00:00Z"
+            },
+            {
+                "day": 9,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Tour de Pologne",
+                        "dates": "04 Aug - 10 Aug 2025",
+                        "venue": "",
+                        "country": "POL",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74231",
+                            "title": "Tour de Pologne",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 8,
+                "competitionDate": "2025-08-09T00:00:00Z"
+            },
+            {
+                "day": 10,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Tour de Pologne",
+                        "dates": "04 Aug - 10 Aug 2025",
+                        "venue": "",
+                        "country": "POL",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74231",
+                            "title": "Tour de Pologne",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 8,
+                "competitionDate": "2025-08-10T00:00:00Z"
+            },
+            {
+                "day": 17,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "ADAC Cyclassics",
+                        "dates": "17 Aug 2025",
+                        "venue": "",
+                        "country": "GER",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74232",
+                            "title": "ADAC Cyclassics",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 8,
+                "competitionDate": "2025-08-17T00:00:00Z"
+            },
+            {
+                "day": 20,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Renewi Tour",
+                        "dates": "20 Aug - 24 Aug 2025",
+                        "venue": "",
+                        "country": "BEL",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74234",
+                            "title": "Renewi Tour",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 8,
+                "competitionDate": "2025-08-20T00:00:00Z"
+            },
+            {
+                "day": 21,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Renewi Tour",
+                        "dates": "20 Aug - 24 Aug 2025",
+                        "venue": "",
+                        "country": "BEL",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74234",
+                            "title": "Renewi Tour",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 8,
+                "competitionDate": "2025-08-21T00:00:00Z"
+            },
+            {
+                "day": 22,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Renewi Tour",
+                        "dates": "20 Aug - 24 Aug 2025",
+                        "venue": "",
+                        "country": "BEL",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74234",
+                            "title": "Renewi Tour",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 8,
+                "competitionDate": "2025-08-22T00:00:00Z"
+            },
+            {
+                "day": 23,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Renewi Tour",
+                        "dates": "20 Aug - 24 Aug 2025",
+                        "venue": "",
+                        "country": "BEL",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74234",
+                            "title": "Renewi Tour",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    },
+                    {
+                        "name": "La Vuelta Ciclista a España",
+                        "dates": "23 Aug - 14 Sep 2025",
+                        "venue": "",
+                        "country": "ESP",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74235",
+                            "title": "La Vuelta Ciclista a España",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 8,
+                "competitionDate": "2025-08-23T00:00:00Z"
+            },
+            {
+                "day": 24,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Renewi Tour",
+                        "dates": "20 Aug - 24 Aug 2025",
+                        "venue": "",
+                        "country": "BEL",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74234",
+                            "title": "Renewi Tour",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    },
+                    {
+                        "name": "La Vuelta Ciclista a España",
+                        "dates": "23 Aug - 14 Sep 2025",
+                        "venue": "",
+                        "country": "ESP",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74235",
+                            "title": "La Vuelta Ciclista a España",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 8,
+                "competitionDate": "2025-08-24T00:00:00Z"
+            },
+            {
+                "day": 25,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "La Vuelta Ciclista a España",
+                        "dates": "23 Aug - 14 Sep 2025",
+                        "venue": "",
+                        "country": "ESP",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74235",
+                            "title": "La Vuelta Ciclista a España",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 8,
+                "competitionDate": "2025-08-25T00:00:00Z"
+            },
+            {
+                "day": 26,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "La Vuelta Ciclista a España",
+                        "dates": "23 Aug - 14 Sep 2025",
+                        "venue": "",
+                        "country": "ESP",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74235",
+                            "title": "La Vuelta Ciclista a España",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 8,
+                "competitionDate": "2025-08-26T00:00:00Z"
+            },
+            {
+                "day": 27,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "La Vuelta Ciclista a España",
+                        "dates": "23 Aug - 14 Sep 2025",
+                        "venue": "",
+                        "country": "ESP",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74235",
+                            "title": "La Vuelta Ciclista a España",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 8,
+                "competitionDate": "2025-08-27T00:00:00Z"
+            },
+            {
+                "day": 28,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "La Vuelta Ciclista a España",
+                        "dates": "23 Aug - 14 Sep 2025",
+                        "venue": "",
+                        "country": "ESP",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74235",
+                            "title": "La Vuelta Ciclista a España",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 8,
+                "competitionDate": "2025-08-28T00:00:00Z"
+            },
+            {
+                "day": 29,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "La Vuelta Ciclista a España",
+                        "dates": "23 Aug - 14 Sep 2025",
+                        "venue": "",
+                        "country": "ESP",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74235",
+                            "title": "La Vuelta Ciclista a España",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 8,
+                "competitionDate": "2025-08-29T00:00:00Z"
+            },
+            {
+                "day": 30,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "La Vuelta Ciclista a España",
+                        "dates": "23 Aug - 14 Sep 2025",
+                        "venue": "",
+                        "country": "ESP",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74235",
+                            "title": "La Vuelta Ciclista a España",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 8,
+                "competitionDate": "2025-08-30T00:00:00Z"
+            },
+            {
+                "day": 31,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "La Vuelta Ciclista a España",
+                        "dates": "23 Aug - 14 Sep 2025",
+                        "venue": "",
+                        "country": "ESP",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74235",
+                            "title": "La Vuelta Ciclista a España",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    },
+                    {
+                        "name": "Bretagne Classic - Ouest-France",
+                        "dates": "31 Aug 2025",
+                        "venue": "",
+                        "country": "FRA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74237",
+                            "title": "Bretagne Classic - Ouest-France",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 8,
+                "competitionDate": "2025-08-31T00:00:00Z"
+            }
+        ],
+        "month": 8,
+        "monthName": "August 2025",
+        "isCurrentMonth": false
+    },
+    {
+        "year": 2025,
+        "items": [
+            {
+                "day": 1,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "La Vuelta Ciclista a España",
+                        "dates": "23 Aug - 14 Sep 2025",
+                        "venue": "",
+                        "country": "ESP",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74235",
+                            "title": "La Vuelta Ciclista a España",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 9,
+                "competitionDate": "2025-09-01T00:00:00Z"
+            },
+            {
+                "day": 2,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "La Vuelta Ciclista a España",
+                        "dates": "23 Aug - 14 Sep 2025",
+                        "venue": "",
+                        "country": "ESP",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74235",
+                            "title": "La Vuelta Ciclista a España",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 9,
+                "competitionDate": "2025-09-02T00:00:00Z"
+            },
+            {
+                "day": 3,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "La Vuelta Ciclista a España",
+                        "dates": "23 Aug - 14 Sep 2025",
+                        "venue": "",
+                        "country": "ESP",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74235",
+                            "title": "La Vuelta Ciclista a España",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 9,
+                "competitionDate": "2025-09-03T00:00:00Z"
+            },
+            {
+                "day": 4,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "La Vuelta Ciclista a España",
+                        "dates": "23 Aug - 14 Sep 2025",
+                        "venue": "",
+                        "country": "ESP",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74235",
+                            "title": "La Vuelta Ciclista a España",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 9,
+                "competitionDate": "2025-09-04T00:00:00Z"
+            },
+            {
+                "day": 5,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "La Vuelta Ciclista a España",
+                        "dates": "23 Aug - 14 Sep 2025",
+                        "venue": "",
+                        "country": "ESP",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74235",
+                            "title": "La Vuelta Ciclista a España",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 9,
+                "competitionDate": "2025-09-05T00:00:00Z"
+            },
+            {
+                "day": 6,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "La Vuelta Ciclista a España",
+                        "dates": "23 Aug - 14 Sep 2025",
+                        "venue": "",
+                        "country": "ESP",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74235",
+                            "title": "La Vuelta Ciclista a España",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 9,
+                "competitionDate": "2025-09-06T00:00:00Z"
+            },
+            {
+                "day": 7,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "La Vuelta Ciclista a España",
+                        "dates": "23 Aug - 14 Sep 2025",
+                        "venue": "",
+                        "country": "ESP",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74235",
+                            "title": "La Vuelta Ciclista a España",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 9,
+                "competitionDate": "2025-09-07T00:00:00Z"
+            },
+            {
+                "day": 8,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "La Vuelta Ciclista a España",
+                        "dates": "23 Aug - 14 Sep 2025",
+                        "venue": "",
+                        "country": "ESP",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74235",
+                            "title": "La Vuelta Ciclista a España",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 9,
+                "competitionDate": "2025-09-08T00:00:00Z"
+            },
+            {
+                "day": 9,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "La Vuelta Ciclista a España",
+                        "dates": "23 Aug - 14 Sep 2025",
+                        "venue": "",
+                        "country": "ESP",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74235",
+                            "title": "La Vuelta Ciclista a España",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 9,
+                "competitionDate": "2025-09-09T00:00:00Z"
+            },
+            {
+                "day": 10,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "La Vuelta Ciclista a España",
+                        "dates": "23 Aug - 14 Sep 2025",
+                        "venue": "",
+                        "country": "ESP",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74235",
+                            "title": "La Vuelta Ciclista a España",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 9,
+                "competitionDate": "2025-09-10T00:00:00Z"
+            },
+            {
+                "day": 11,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "La Vuelta Ciclista a España",
+                        "dates": "23 Aug - 14 Sep 2025",
+                        "venue": "",
+                        "country": "ESP",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74235",
+                            "title": "La Vuelta Ciclista a España",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 9,
+                "competitionDate": "2025-09-11T00:00:00Z"
+            },
+            {
+                "day": 12,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "La Vuelta Ciclista a España",
+                        "dates": "23 Aug - 14 Sep 2025",
+                        "venue": "",
+                        "country": "ESP",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74235",
+                            "title": "La Vuelta Ciclista a España",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    },
+                    {
+                        "name": "Grand Prix Cycliste de Québec",
+                        "dates": "12 Sep 2025",
+                        "venue": "",
+                        "country": "CAN",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74239",
+                            "title": "Grand Prix Cycliste de Québec",
+                            "isExternal": false
+                        },
+                        "continentCode": "AME"
+                    }
+                ],
+                "month": 9,
+                "competitionDate": "2025-09-12T00:00:00Z"
+            },
+            {
+                "day": 13,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "La Vuelta Ciclista a España",
+                        "dates": "23 Aug - 14 Sep 2025",
+                        "venue": "",
+                        "country": "ESP",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74235",
+                            "title": "La Vuelta Ciclista a España",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 9,
+                "competitionDate": "2025-09-13T00:00:00Z"
+            },
+            {
+                "day": 14,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "La Vuelta Ciclista a España",
+                        "dates": "23 Aug - 14 Sep 2025",
+                        "venue": "",
+                        "country": "ESP",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74235",
+                            "title": "La Vuelta Ciclista a España",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    },
+                    {
+                        "name": "Grand Prix Cycliste de Montréal",
+                        "dates": "14 Sep 2025",
+                        "venue": "",
+                        "country": "CAN",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74240",
+                            "title": "Grand Prix Cycliste de Montréal",
+                            "isExternal": false
+                        },
+                        "continentCode": "AME"
+                    }
+                ],
+                "month": 9,
+                "competitionDate": "2025-09-14T00:00:00Z"
+            }
+        ],
+        "month": 9,
+        "monthName": "September 2025",
+        "isCurrentMonth": false
+    },
+    {
+        "year": 2025,
+        "items": [
+            {
+                "day": 11,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Il Lombardia",
+                        "dates": "11 Oct 2025",
+                        "venue": "",
+                        "country": "ITA",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74242",
+                            "title": "Il Lombardia",
+                            "isExternal": false
+                        },
+                        "continentCode": "EUR"
+                    }
+                ],
+                "month": 10,
+                "competitionDate": "2025-10-11T00:00:00Z"
+            },
+            {
+                "day": 14,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Gree-Tour of Guangxi",
+                        "dates": "14 Oct - 19 Oct 2025",
+                        "venue": "",
+                        "country": "CHN",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74244",
+                            "title": "Gree-Tour of Guangxi",
+                            "isExternal": false
+                        },
+                        "continentCode": "ASI"
+                    }
+                ],
+                "month": 10,
+                "competitionDate": "2025-10-14T00:00:00Z"
+            },
+            {
+                "day": 15,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Gree-Tour of Guangxi",
+                        "dates": "14 Oct - 19 Oct 2025",
+                        "venue": "",
+                        "country": "CHN",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74244",
+                            "title": "Gree-Tour of Guangxi",
+                            "isExternal": false
+                        },
+                        "continentCode": "ASI"
+                    }
+                ],
+                "month": 10,
+                "competitionDate": "2025-10-15T00:00:00Z"
+            },
+            {
+                "day": 16,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Gree-Tour of Guangxi",
+                        "dates": "14 Oct - 19 Oct 2025",
+                        "venue": "",
+                        "country": "CHN",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74244",
+                            "title": "Gree-Tour of Guangxi",
+                            "isExternal": false
+                        },
+                        "continentCode": "ASI"
+                    }
+                ],
+                "month": 10,
+                "competitionDate": "2025-10-16T00:00:00Z"
+            },
+            {
+                "day": 17,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Gree-Tour of Guangxi",
+                        "dates": "14 Oct - 19 Oct 2025",
+                        "venue": "",
+                        "country": "CHN",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74244",
+                            "title": "Gree-Tour of Guangxi",
+                            "isExternal": false
+                        },
+                        "continentCode": "ASI"
+                    }
+                ],
+                "month": 10,
+                "competitionDate": "2025-10-17T00:00:00Z"
+            },
+            {
+                "day": 18,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Gree-Tour of Guangxi",
+                        "dates": "14 Oct - 19 Oct 2025",
+                        "venue": "",
+                        "country": "CHN",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74244",
+                            "title": "Gree-Tour of Guangxi",
+                            "isExternal": false
+                        },
+                        "continentCode": "ASI"
+                    }
+                ],
+                "month": 10,
+                "competitionDate": "2025-10-18T00:00:00Z"
+            },
+            {
+                "day": 19,
+                "year": 2025,
+                "items": [
+                    {
+                        "name": "Gree-Tour of Guangxi",
+                        "dates": "14 Oct - 19 Oct 2025",
+                        "venue": "",
+                        "country": "CHN",
+                        "colourCode": "road",
+                        "isUciEvent": false,
+                        "detailsLink": {
+                            "url": "/competition-details/2025/ROA/74244",
+                            "title": "Gree-Tour of Guangxi",
+                            "isExternal": false
+                        },
+                        "continentCode": "ASI"
+                    }
+                ],
+                "month": 10,
+                "competitionDate": "2025-10-19T00:00:00Z"
+            }
+        ],
+        "month": 10,
+        "monthName": "October 2025",
+        "isCurrentMonth": false
+    }
+]
