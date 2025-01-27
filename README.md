@@ -1,6 +1,6 @@
-# UCI World Tour map
+# UCI World Tour cycling map
 
-The goal of this project is to create a map of the UCI World Tour.
+The goal of this project is to create a map of the UCI World Tour cycling races.
 
 ## Retrieve data
 
@@ -47,3 +47,8 @@ https://sqitch.org/
 
 For database migrations
 
+## Next steps
+
+- Write about it on dev.to
+- Send to Postgres weekly
+- Publish if anyone's interested
