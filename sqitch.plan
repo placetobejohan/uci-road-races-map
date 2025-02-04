@@ -4,3 +4,4 @@
 
 appschema 2025-01-25T21:17:09Z Marge <marge@example.com> # Add schema for all world tour objects.
 tables/races_raw [appschema] 2025-01-25T21:25:34Z Marge <marge@example.com> # Create table for storing the raw JSON data.
+tables/races [appschema tables/races_raw] 2025-02-04T13:43:16Z Marge <marge@example.com> # Add races table

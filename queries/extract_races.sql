@@ -70,3 +70,26 @@ WHERE title != name;
 -- Options for the date in the model:
 -- 1. start date and end date in a separate column
 -- 2. start date and end date in a single column (use range?)
+-- Option 1 since 2 is not supported by datasette
+
+-- Keep only one row per race so we group by name and get the first and last competition_date
+SELECT
+    name,
+    country,
+    details_link,
+    min(competition_date) AS start_date,
+    max(competition_date) AS end_date
+FROM
+    races_raw,
+    json_table(
+        json_data,
+        '$[*].items[*].items[*]' columns(
+            competition_date date path '$.competitionDate',
+            nested path '$.items[*]' columns(
+                name text path '$.name',
+                country char(3) path '$.country',
+                details_link text path '$.detailsLink.url'
+            )
+        )
+    )
+GROUP BY name, country, details_link;
