@@ -1,3 +1,4 @@
+-- Active: 1714505613653@@localhost@5432@pro_cycling@uci_world_tour
 SELECT json_data -> 'items'
 FROM
     races_raw;
@@ -45,6 +46,25 @@ FROM
             )
         )
     );
+
+-- are title and name always the same? YES
+SELECT
+    json_data,
+    name,
+    title
+FROM
+    races_raw,
+    json_table(
+        json_data,
+        '$[*].items[*].items[*]' columns(
+            nested path '$.items[*]' columns(
+                name text path '$.name',
+                title text path '$.detailsLink.title'
+            )
+        )
+    )
+WHERE title != name;
+
 
 -- Now use a CTE first, then group by name and keep only the first and last competition_date
 -- Options for the date in the model:
