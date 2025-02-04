@@ -1,11 +1,9 @@
-SELECT
-    json_data -> 'items'
+SELECT json_data -> 'items'
 FROM
     races_raw;
 
 -- Figure out the data structure
-SELECT
-    jsonb_array_elements(json_data -> 'items' -> 1 -> 'items') AS races_on_day
+SELECT jsonb_array_elements(json_data -> 'items' -> 1 -> 'items') AS races_on_day
 FROM
     races_raw;
 
@@ -17,10 +15,10 @@ SELECT
     competition_ts
 FROM
     races_raw,
-    json_table (
-        json_data, 
-        '$[*].items[*].items[*].items[*]' columns (
-            name text path '$.name', 
+    json_table(
+        json_data,
+        '$[*].items[*].items[*].items[*]' columns(
+            name text path '$.name',
             country char(3) path '$.country',
             details_link text path '$.detailsLink.url',
             competition_ts text path '$.competitionDate'
@@ -36,11 +34,11 @@ SELECT
     details_link
 FROM
     races_raw,
-    json_table (
-        json_data, 
-        '$[*].items[*].items[*]' columns (
+    json_table(
+        json_data,
+        '$[*].items[*].items[*]' columns(
             competition_date date path '$.competitionDate',
-            nested path '$.items[*]' columns (
+            nested path '$.items[*]' columns(
                 name text path '$.name',
                 country char(3) path '$.country',
                 details_link text path '$.detailsLink.url'
