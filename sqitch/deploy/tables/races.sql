@@ -9,7 +9,7 @@ CREATE TABLE uci_world_tour.races AS
 SELECT
     name,
     country,
-    details_link,
+    'https://www.uci.org' || details_link AS uci_url,
     min(competition_date) AS start_date,
     max(competition_date) AS end_date
 FROM

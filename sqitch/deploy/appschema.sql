@@ -2,6 +2,6 @@
 
 BEGIN;
 
-create schema uci_world_tour;
+CREATE SCHEMA uci_world_tour;
 
 COMMIT;

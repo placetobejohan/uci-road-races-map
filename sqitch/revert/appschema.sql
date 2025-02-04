@@ -2,6 +2,6 @@
 
 BEGIN;
 
-drop schema uci_world_tour;
+DROP SCHEMA uci_world_tour;
 
 COMMIT;
