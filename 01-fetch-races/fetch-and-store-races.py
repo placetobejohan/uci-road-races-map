@@ -1,3 +1,5 @@
+# Deprecated since we can just download an XLS file and load it into the db
+
 import requests
 import psycopg2
 from psycopg2.extras import Json

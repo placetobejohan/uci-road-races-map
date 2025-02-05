@@ -76,6 +76,7 @@ WHERE title != name;
 SELECT
     name,
     country,
+    is_uci_event,
     details_link,
     min(competition_date) AS start_date,
     max(competition_date) AS end_date
@@ -88,8 +89,9 @@ FROM
             nested path '$.items[*]' columns(
                 name text path '$.name',
                 country char(3) path '$.country',
+                is_uci_event boolean path '$.isUciEvent',
                 details_link text path '$.detailsLink.url'
             )
         )
     )
-GROUP BY name, country, details_link;
+GROUP BY json_data, name, country, details_link, is_uci_event;
