@@ -1,7 +1,7 @@
--- Deploy uci-world-tour-map:appschema to pg
+-- Deploy uci-road-races-map:appschema to pg
 
 BEGIN;
 
-CREATE SCHEMA uci_world_tour;
+CREATE SCHEMA uci_road;
 
 COMMIT;

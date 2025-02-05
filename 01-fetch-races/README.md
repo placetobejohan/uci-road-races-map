@@ -10,4 +10,6 @@ The raw data is stored in JSONB format together with a timestamp of the last upd
 
 I found a link to download an XLS file: https://www.uci.org/calendar/road/2ruOnavHX0dMGTCRozdYAU?discipline=ROA#
 
+Go to https://www.uci.org/calendar/road/2ruOnavHX0dMGTCRozdYAU?discipline=ROA, scroll down and click on `Download season`.
+
 That means we can load the data from the XLS file into the database with a COPY query. No need for the JSONB then.
