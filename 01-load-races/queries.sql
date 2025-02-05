@@ -1,5 +1,5 @@
 SELECT *
 FROM sqitch.changes;
 
-SELECT count(*)
+SELECT *
 FROM uci_road.races_raw;
