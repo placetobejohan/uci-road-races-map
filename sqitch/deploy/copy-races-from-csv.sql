@@ -3,8 +3,7 @@
 BEGIN;
 
 -- XXX Add DDLs here.
-SET datestyle TO 'MDY';
-\copy uci_road.races_raw FROM '/home/johan-maes/data/UCICompetitions_ROA_2025.csv' WITH (FORMAT csv, HEADER true);
+\copy uci_road.races_raw FROM '/home/johan-maes/source/uci-road-races-map/01-load-races-into-db/UCICompetitions_ROA_2025.csv' WITH (FORMAT csv, HEADER true);
 
 
 COMMIT;

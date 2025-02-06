@@ -1,0 +1,11 @@
+-- Active: 1714505613653@@localhost@5432@pro_cycling
+SELECT *
+FROM sqitch.changes;
+
+SELECT
+    name,
+    category,
+    class,
+    to_date(date_from, 'MM/DD/YYYY') AS converted_date
+FROM uci_road.races_raw
+ORDER BY converted_date;

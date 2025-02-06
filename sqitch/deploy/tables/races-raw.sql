@@ -3,8 +3,8 @@
 BEGIN;
 
 CREATE TABLE uci_road.races_raw (
-    date_from date,
-    date_to date,
+    date_from text,
+    date_to text,
     name text,
     venue text,
     country text,
