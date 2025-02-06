@@ -2,6 +2,6 @@
 
 BEGIN;
 
-DROP SCHEMA uci_road;
+DROP SCHEMA uci_road_raw;
 
 COMMIT;

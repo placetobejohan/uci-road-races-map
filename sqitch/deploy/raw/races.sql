@@ -1,8 +1,8 @@
 -- Deploy uci-road-races-map:races_raw to pg
--- requires: appschema
+-- requires: raw/schema
 BEGIN;
 
-CREATE TABLE uci_road.races_raw (
+CREATE TABLE uci_road_raw.races (
     date_from text,
     date_to text,
     name text,
@@ -15,6 +15,6 @@ CREATE TABLE uci_road.races_raw (
     website text
 );
 
-\copy uci_road.races_raw FROM '/home/johan-maes/source/uci-road-races-map/01-load-races-into-db/UCICompetitions_ROA_2025.csv' WITH (FORMAT csv, HEADER true);
+\copy uci_road_raw.races FROM '/home/johan-maes/source/uci-road-races-map/01-load-races-into-db/UCICompetitions_ROA_2025.csv' WITH (FORMAT csv, HEADER true);
 
 COMMIT;

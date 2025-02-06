@@ -1,4 +1,4 @@
--- Verify uci-road-races-map:appschema on pg
+-- Verify uci-road-races-map:schema on pg
 
 BEGIN;
 

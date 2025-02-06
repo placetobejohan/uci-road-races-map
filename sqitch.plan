@@ -2,6 +2,8 @@
 %project=uci-road-races-map
 %uri=https://github.com/placetobejohan/uci-road-races-map
 
-appschema 2025-01-25T21:17:09Z Marge <marge@example.com> # Add schema for all uci road racing objects.
-tables/races-raw [appschema] 2025-01-25T21:25:34Z Marge <marge@example.com> # Table for storing the raw races data.
-tables/categories [appschema tables/races-raw] 2025-02-06T13:32:40Z Marge <marge@example.com> # Create lookup table categories: Men Elite, Women Elite, etc
+raw/schema 2025-01-25T21:17:09Z Marge <marge@example.com> # Add schema for all raw uci road racing objects.
+raw/races [raw/schema] 2025-01-25T21:25:34Z Marge <marge@example.com> # Table for storing the raw races data.
+schema 2025-01-25T21:26:09Z Marge <marge@example.com> # Add schema for all uci road racing objects.
+tables/categories [schema raw/races] 2025-02-06T13:32:40Z Marge <marge@example.com> # Create lookup table categories: Men Elite, Women Elite, etc
+tables/classes [schema raw/races] 2025-02-06T14:26:32Z Marge <marge@example.com> # Lookup table for race classes, eg World Tour
