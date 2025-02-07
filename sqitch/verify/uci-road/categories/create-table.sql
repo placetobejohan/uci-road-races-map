@@ -2,8 +2,14 @@
 
 BEGIN;
 
-SELECT *
-FROM uci_road.categories
-WHERE false;
+-- There should be 6 categories
+SELECT
+    1 / (
+        CASE
+            WHEN (SELECT COUNT(*) FROM uci_road.categories) = 6
+                THEN 1
+            ELSE 0
+        END
+    );
 
 ROLLBACK;

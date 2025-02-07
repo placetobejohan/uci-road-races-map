@@ -9,4 +9,10 @@ CREATE TABLE uci_road.categories (
     code varchar(2) NOT NULL
 );
 
+INSERT INTO uci_road.categories (code)
+SELECT DISTINCT category AS code
+FROM uci_road_raw.races
+WHERE category IS NOT NULL
+ORDER BY code;
+
 COMMIT;
