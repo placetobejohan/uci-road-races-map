@@ -2,6 +2,10 @@
 
 BEGIN;
 
-SELECT pg_catalog.has_schema_privilege('uci_road_raw', 'usage');
+SELECT * FROM no_plan();
+SELECT sqitch.assert_pgtap(
+    has_schema('uci_road_raw'),
+    'Schema should exist'
+);
 
 ROLLBACK;

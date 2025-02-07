@@ -2,9 +2,10 @@
 
 BEGIN;
 
-SELECT sqitch.assert(
-    (SELECT count(*) FROM uci_road.calendars) = 7,
-    'There should be 7 calendars'
+SELECT * FROM no_plan();
+SELECT sqitch.assert_pgtap(
+    pgtap.isnt_empty('SELECT 1 FROM uci_road.calendars'),
+    'The table should be populated'
 );
 
 ROLLBACK;

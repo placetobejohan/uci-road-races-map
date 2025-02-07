@@ -21,4 +21,6 @@ FROM (
 ) AS v (code, name)
 WHERE calendars.code = v.code;
 
+ALTER TABLE uci_road.calendars ALTER COLUMN name SET NOT NULL;
+
 COMMIT;

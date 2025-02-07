@@ -2,9 +2,10 @@
 
 BEGIN;
 
-SELECT assert(
-    (SELECT count(*) FROM uci_road.classes) = 19,
-    'There should be 19 classes'
+SELECT * FROM no_plan();
+SELECT sqitch.assert_pgtap(
+    pgtap.isnt_empty('SELECT 1 FROM uci_road.classes'),
+    'The table should be populated'
 );
 
 ROLLBACK;

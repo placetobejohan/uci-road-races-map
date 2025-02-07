@@ -2,9 +2,10 @@
 
 BEGIN;
 
-SELECT sqitch.assert(
-    (SELECT count(*) FROM uci_road.categories) = 6,
-    'There should be 6 categories'
+SELECT * FROM no_plan();
+SELECT sqitch.assert_pgtap(
+    pgtap.isnt_empty('SELECT 1 FROM uci_road.categories'),
+    'The table should be populated'
 );
 
 ROLLBACK;

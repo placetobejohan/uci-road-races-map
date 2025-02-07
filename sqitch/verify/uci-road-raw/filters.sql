@@ -2,8 +2,10 @@
 
 BEGIN;
 
-SELECT *
-FROM uci_road_raw.filters
-WHERE false;
+SELECT * FROM no_plan();
+SELECT sqitch.assert_pgtap(
+    pgtap.isnt_empty('SELECT 1 FROM uci_road_raw.filters'),
+    'The table should be populated'
+);
 
 ROLLBACK;
