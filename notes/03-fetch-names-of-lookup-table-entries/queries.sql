@@ -3,3 +3,18 @@ FROM http_get('https://www.uci.org/api/calendar/cwc?discipline=ROA');
 
 SELECT *
 FROM uci_road_raw.filters;
+
+-- unpack filters
+SELECT
+    json_data,
+    label,
+    code,
+    name
+FROM uci_road_raw.filters,
+    json_table(json_data, '$[*]' columns(
+        label text path '$.label',
+        nested path '$.items[*]' columns(
+            code text path '$.code',
+            name text path '$.text'
+        )
+    ));
