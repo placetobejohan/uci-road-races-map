@@ -17,3 +17,7 @@ FROM uci_road.classes;
 
 SELECT *
 FROM uci_road.countries;
+
+SELECT *
+FROM uci_road_raw.races
+WHERE name ILIKE '%nations%';
