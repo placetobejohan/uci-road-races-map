@@ -17,4 +17,12 @@ FROM uci_road_raw.filters,
             code text path '$.code',
             name text path '$.text'
         )
-    ));
+    ))
+WHERE label = 'UCI Series';
+
+SELECT *
+FROM uci_road.calendars;
+
+SELECT *
+FROM uci_road_raw.races
+WHERE calendar IN ('MON', 'UWT');

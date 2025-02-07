@@ -2,14 +2,9 @@
 
 BEGIN;
 
--- There should be 7 calendars
-SELECT
-    1 / (
-        CASE
-            WHEN (SELECT COUNT(*) FROM uci_road.calendars) = 7
-                THEN 1
-            ELSE 0
-        END
-    );
+SELECT assert(
+    (SELECT count(*) FROM uci_road.calendars) = 7,
+    'There should be 7 calendars'
+);
 
 ROLLBACK;

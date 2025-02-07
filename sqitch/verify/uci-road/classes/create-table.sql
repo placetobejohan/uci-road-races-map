@@ -2,14 +2,9 @@
 
 BEGIN;
 
--- There should be 19 classes
-SELECT
-    1 / (
-        CASE
-            WHEN (SELECT COUNT(*) FROM uci_road.classes) = 19
-                THEN 1
-            ELSE 0
-        END
-    );
+SELECT assert(
+    (SELECT count(*) FROM uci_road.classes) = 19,
+    'There should be 19 classes'
+);
 
 ROLLBACK;

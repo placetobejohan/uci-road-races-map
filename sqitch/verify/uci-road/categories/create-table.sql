@@ -2,14 +2,9 @@
 
 BEGIN;
 
--- There should be 6 categories
-SELECT
-    1 / (
-        CASE
-            WHEN (SELECT COUNT(*) FROM uci_road.categories) = 6
-                THEN 1
-            ELSE 0
-        END
-    );
+SELECT assert(
+    (SELECT count(*) FROM uci_road.categories) = 6,
+    'There should be 6 categories'
+);
 
 ROLLBACK;
