@@ -2,10 +2,10 @@
 
 BEGIN;
 
-SELECT * FROM no_plan();
-SELECT sqitch.verify_pgtap(
-    has_schema('uci_road'),
-    'Schema should exist'
+SELECT sqitch.run_pgtap_tests(
+    $$
+    SELECT has_schema('uci_road')
+    $$
 );
 
 ROLLBACK;

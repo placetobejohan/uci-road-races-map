@@ -1,10 +1,10 @@
 -- Verify uci-road-races-map:races on pg
 BEGIN;
 
-SELECT * FROM no_plan();
-SELECT sqitch.verify_pgtap(
-    pgtap.isnt_empty('SELECT 1 FROM uci_road_raw.races'),
-    'The table should be populated'
+SELECT sqitch.run_pgtap_tests(
+    $$
+    SELECT pgtap.isnt_empty('SELECT 1 FROM uci_road_raw.races')
+    $$
 );
 
 ROLLBACK;

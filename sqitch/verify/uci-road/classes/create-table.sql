@@ -2,10 +2,10 @@
 
 BEGIN;
 
-SELECT * FROM no_plan();
-SELECT sqitch.verify_pgtap(
-    pgtap.isnt_empty('SELECT 1 FROM uci_road.classes'),
-    'The table should be populated'
+SELECT sqitch.run_pgtap_tests(
+    $$
+    SELECT pgtap.isnt_empty('SELECT 1 FROM uci_road.classes')
+    $$
 );
 
 ROLLBACK;
