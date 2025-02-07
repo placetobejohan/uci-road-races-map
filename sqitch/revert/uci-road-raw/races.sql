@@ -2,6 +2,6 @@
 BEGIN;
 
 -- XXX Add DDLs here.
-DROP TABLE uci_road.races_raw;
+DROP TABLE uci_road_raw.races;
 
 COMMIT;

@@ -2,10 +2,11 @@
 %project=uci-road-races-map
 %uri=https://github.com/placetobejohan/uci-road-races-map
 
-raw/schema 2025-01-25T21:17:09Z Marge <marge@example.com> # Add schema for all raw uci road racing objects.
-raw/races [raw/schema] 2025-01-25T21:25:34Z Marge <marge@example.com> # Table for storing the raw races data.
-schema 2025-01-25T21:26:09Z Marge <marge@example.com> # Add schema for all uci road racing objects.
-tables/categories [schema raw/races] 2025-02-06T13:32:40Z Marge <marge@example.com> # Create lookup table categories: Men Elite, Women Elite, etc
-tables/classes [schema raw/races] 2025-02-06T14:26:32Z Marge <marge@example.com> # Lookup table for race classes, eg World Tour
-tables/calendars [schema raw/races] 2025-02-07T08:58:52Z Marge <marge@example.com> # Create lookup table for uci calendars, eg World Tour, Europe Tour
-raw/filters [raw/schema] 2025-02-07T10:25:50Z Marge <marge@example.com> # Download filters from uci API. This is needed for the names of the lookup tables.
+uci-road-raw/schema 2025-01-25T21:17:09Z Marge <marge@example.com> # Add schema for all raw uci road racing objects.
+uci-road-raw/races [uci-road-raw/schema] 2025-01-25T21:25:34Z Marge <marge@example.com> # Table for storing the raw races data.
+uci-road/schema 2025-01-25T21:26:09Z Marge <marge@example.com> # Add schema for all uci road racing objects.
+uci-road/categories/create-table [uci-road/schema] 2025-02-06T13:32:40Z Marge <marge@example.com> # Create lookup table categories.
+uci-road/categories/insert-items [uci-road/categories/create-table uci-road-raw/races] 2025-02-06T13:32:40Z Marge <marge@example.com> # Insert categories: Men Elite, Women Elite, etc.
+uci-road/classes/create-table-and-insert-items [uci-road/schema uci-road-raw/races] 2025-02-06T14:26:32Z Marge <marge@example.com> # Lookup table for race classes, eg World Tour
+uci-road/calendars/create-table-and-insert-items [uci-road/schema uci-road-raw/races] 2025-02-07T08:58:52Z Marge <marge@example.com> # Create lookup table for uci calendars, eg World Tour, Europe Tour
+uci-road-raw/filters [uci-road-raw/schema] 2025-02-07T10:25:50Z Marge <marge@example.com> # Download filters from uci API. This is needed for the names of the lookup tables.
