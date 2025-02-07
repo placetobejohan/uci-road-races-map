@@ -1,8 +1,12 @@
-CREATE OR REPLACE FUNCTION assert(condition boolean, message text)
+BEGIN;
+
+CREATE OR REPLACE FUNCTION sqitch.assert_pgtap(pgtap_result text, message text)
 RETURNS void AS $$
 BEGIN
-    IF NOT condition THEN
-        RAISE EXCEPTION '%', message;
+    IF pgtap_result LIKE 'not ok%' THEN
+        RAISE EXCEPTION 'pgTAP assertion failed: % - %', message, pgtap_result;
     END IF;
 END;
 $$ LANGUAGE plpgsql;
+
+COMMIT;

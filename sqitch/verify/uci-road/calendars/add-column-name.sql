@@ -2,7 +2,7 @@
 
 BEGIN;
 
-SELECT assert(
+SELECT sqitch.assert(
     NOT EXISTS (
         SELECT 1
         FROM uci_road.calendars
