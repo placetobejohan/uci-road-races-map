@@ -7,3 +7,4 @@ raw/races [raw/schema] 2025-01-25T21:25:34Z Marge <marge@example.com> # Table fo
 schema 2025-01-25T21:26:09Z Marge <marge@example.com> # Add schema for all uci road racing objects.
 tables/categories [schema raw/races] 2025-02-06T13:32:40Z Marge <marge@example.com> # Create lookup table categories: Men Elite, Women Elite, etc
 tables/classes [schema raw/races] 2025-02-06T14:26:32Z Marge <marge@example.com> # Lookup table for race classes, eg World Tour
+tables/countries [schema raw/races] 2025-02-07T08:32:59Z Marge <marge@example.com> # Lookup table countries

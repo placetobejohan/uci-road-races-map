@@ -14,4 +14,6 @@ SELECT DISTINCT category AS code
 FROM uci_road_raw.races
 WHERE category IS NOT NULL
 ORDER BY code;
+
+
 COMMIT;

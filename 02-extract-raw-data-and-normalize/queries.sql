@@ -14,3 +14,6 @@ FROM uci_road.categories;
 
 SELECT *
 FROM uci_road.classes;
+
+SELECT *
+FROM uci_road.countries;
