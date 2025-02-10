@@ -1,3 +1,4 @@
+-- Active: 1714505613653@@localhost@5432@pro_cycling
 SELECT content::jsonb -> 'filters' AS filters
 FROM http_get('https://www.uci.org/api/calendar/cwc?discipline=ROA');
 
@@ -17,8 +18,7 @@ FROM uci_road_raw.filters,
             code text path '$.code',
             name text path '$.text'
         )
-    ))
-WHERE label = 'UCI Series';
+    ));
 
 SELECT *
 FROM uci_road.calendars;
@@ -35,3 +35,18 @@ SHOW search_path;
 SELECT * FROM no_plan();
 SELECT has_function('sqitch', 'assert_pgtap', ARRAY['text', 'text']);
 SELECT has_function('assert_pgtap');
+
+SELECT * FROM uci_road.categories;
+
+SELECT
+    code,
+    name
+FROM uci_road_raw.filters,
+    json_table(json_data, '$[*]' columns(
+        label text path '$.label',
+        nested path '$.items[*]' columns(
+            code text path '$.code',
+            name text path '$.text'
+        )
+    ))
+WHERE label = 'Category';
