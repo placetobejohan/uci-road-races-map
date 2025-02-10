@@ -14,3 +14,4 @@ uci-road-raw/filters [uci-road-raw/schema] 2025-02-07T10:25:50Z Marge <marge@exa
 uci-road/calendars/add-column-name [uci-road-raw/filters uci-road/calendars/create-table] 2025-02-07T13:46:50Z Marge <marge@example.com> # Add the name for each calendar, fetch it from the raw filters table
 uci-road/categories/add-column-name [uci-road/categories/create-table uci-road-raw/filters] 2025-02-10T13:52:49Z Marge <marge@example.com> # Add the name for each category, fetch it from the raw filters table
 uci-road/classes/add-column-name [uci-road/classes/create-table uci-road-raw/filters] 2025-02-10T14:05:51Z Marge <marge@example.com> # Add the name for each class, fetch it from the raw filters table
+postgis/create-extension 2025-02-10T15:50:29Z Marge <marge@example.com> # Create extension postgis
