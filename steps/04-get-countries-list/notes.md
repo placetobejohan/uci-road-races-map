@@ -21,3 +21,14 @@ We'll probably go for the first option and use centroids for each country. Howev
 https://www.naturalearthdata.com/downloads/110m-cultural-vectors/
 
 shape file can be imported into postgis with shp2pgsql
+
+```bash
+(echo "BEGIN;\n"; shp2pgsql -s 4326 data/ne_110m_admin_0_countries/ne_110m_admin_0_countries.shp uci_road_raw.countries; echo "\nCOMMIT;") > sqitch/deploy/uci-road-raw/countries.sql
+```
+
+Fields to keep:
+
+- id
+- iso 3 code
+- geom
+- full name
