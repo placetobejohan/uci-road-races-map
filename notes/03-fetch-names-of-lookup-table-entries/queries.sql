@@ -49,4 +49,7 @@ FROM uci_road_raw.filters,
             name text path '$.text'
         )
     ))
-WHERE label = 'Category';
+WHERE label = 'Class';
+
+select *
+from uci_road.classes;

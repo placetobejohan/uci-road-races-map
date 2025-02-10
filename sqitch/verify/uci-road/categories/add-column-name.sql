@@ -4,7 +4,8 @@ BEGIN;
 
 SELECT sqitch.run_pgtap_tests(
     $$
-    SELECT pgtap.is_empty('SELECT 1 FROM uci_road.categories WHERE name IS null')$$
+    SELECT pgtap.is_empty('SELECT 1 FROM uci_road.categories WHERE name IS null')
+    $$
 );
 
 ROLLBACK;
