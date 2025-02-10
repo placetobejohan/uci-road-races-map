@@ -7,7 +7,7 @@ BEGIN;
 -- XXX Add DDLs here.
 CREATE TABLE uci_road.calendars (
     id integer GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
-    code varchar(3) NOT NULL
+    code varchar(3) NOT NULL UNIQUE
 );
 
 INSERT INTO uci_road.calendars (code)

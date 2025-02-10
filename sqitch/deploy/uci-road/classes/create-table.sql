@@ -6,7 +6,7 @@ BEGIN;
 
 CREATE TABLE uci_road.classes (
     id integer GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
-    code varchar(6) NOT NULL
+    code varchar(6) NOT NULL UNIQUE
 );
 
 INSERT INTO uci_road.classes (code)
