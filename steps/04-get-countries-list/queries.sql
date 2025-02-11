@@ -33,9 +33,12 @@ SELECT *
 FROM uci_road_raw.countries
 WHERE name = 'Guadeloupe';
 
-SELECT *
+SELECT
+    adm0_iso,
+    iso_a3_eh,
+    name
 FROM uci_road_raw.countries
-ORDER BY adm0_iso;
+WHERE name ILIKE '%singapore%';
 
 -- Does every race country have an entry?
 SELECT *
@@ -51,3 +54,55 @@ FROM uci_road_raw.country_mappings;
 
 SELECT *
 FROM sqitch.changes;
+
+-- Use country if there's no mapping
+SELECT *
+FROM uci_road_raw.races
+WHERE NOT EXISTS (
+    SELECT 1
+    FROM uci_road_raw.countries
+    LEFT JOIN uci_road_raw.country_mappings
+        ON countries.iso_a3_eh = country_mappings.iso_code
+    WHERE
+        races.country = countries.iso_a3_eh
+        OR races.country = country_mappings.ioc_code
+);
+
+SELECT *
+FROM uci_road_raw.subunits
+WHERE name = 'Singapore';
+
+-- Use subunit if there's no mapping
+SELECT *
+FROM uci_road_raw.races
+WHERE NOT EXISTS (
+    SELECT 1
+    FROM uci_road_raw.subunits
+    LEFT JOIN uci_road_raw.country_mappings
+        ON subunits.iso_a3_eh = country_mappings.iso_code
+    WHERE
+        races.country = subunits.iso_a3_eh
+        OR races.country = country_mappings.ioc_code
+);
+
+-- only KOS left, we're almost there
+-- is it found anywhere in subunits?
+SELECT *
+FROM uci_road_raw.subunits
+WHERE name ILIKE '%kosovo%';
+
+-- doesn't have iso_a3_eh
+-- try sov_a3, adm0_a3, gu_a3, su_a3, brk_a3
+SELECT *
+FROM uci_road_raw.races
+WHERE NOT EXISTS (
+    SELECT 1
+    FROM uci_road_raw.subunits
+    LEFT JOIN uci_road_raw.country_mappings
+        ON subunits.adm0_a3 = country_mappings.iso_code
+    WHERE
+        races.country = subunits.adm0_a3
+        OR races.country = country_mappings.ioc_code
+);
+
+-- YES!

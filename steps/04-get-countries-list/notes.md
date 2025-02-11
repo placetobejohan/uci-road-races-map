@@ -39,3 +39,21 @@ UCI data set doesn't use ISO country codes! They use IOC country codes.
 Parse it from https://en.wikipedia.org/wiki/Comparison_of_alphabetic_country_codes
 
 KISS: just edit this answer to an sql insert: https://stackoverflow.com/a/11215190/9266796
+
+## Next problem
+
+Countries like Hong Kong, Andorra, Monaco are missing from the Natural Earth data set.
+
+Try map subunits
+
+I mistakenly took small scale the first time, let's go for large scale now
+
+Conclusion: use adm0_a3 together with the mappings
+
+We can save those in one countries table with
+
+- id
+- iso_code
+- ioc_code (which is the same if it's not mapped)
+- name_en (this is the full name)
+- geometry
