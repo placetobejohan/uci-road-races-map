@@ -16,3 +16,4 @@ uci-road/categories/add-column-name [uci-road/categories/create-table uci-road-r
 uci-road/classes/add-column-name [uci-road/classes/create-table uci-road-raw/filters] 2025-02-10T14:05:51Z Marge <marge@example.com> # Add the name for each class, fetch it from the raw filters table
 postgis/create-extension 2025-02-10T15:50:29Z Marge <marge@example.com> # Create extension postgis
 uci-road-raw/countries [uci-road-raw/schema postgis/create-extension] 2025-02-10T19:02:24Z Marge <marge@example.com> # Countries data downloaded from natural earth
+uci-road-raw/country-mappings [uci-road-raw/schema] 2025-02-11T19:38:00Z Marge <marge@example.com> # Mappings between ISO and IOC country codes

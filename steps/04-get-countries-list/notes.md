@@ -32,3 +32,10 @@ Fields to keep:
 - iso 3 code
 - geom
 - full name
+
+## Problem
+
+UCI data set doesn't use ISO country codes! They use IOC country codes.
+Parse it from https://en.wikipedia.org/wiki/Comparison_of_alphabetic_country_codes
+
+KISS: just edit this answer to an sql insert: https://stackoverflow.com/a/11215190/9266796
