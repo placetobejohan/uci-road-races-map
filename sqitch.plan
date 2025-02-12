@@ -18,3 +18,6 @@ postgis/create-extension 2025-02-10T15:50:29Z Marge <marge@example.com> # Create
 uci-road-raw/countries [uci-road-raw/schema postgis/create-extension] 2025-02-10T19:02:24Z Marge <marge@example.com> # Countries data downloaded from natural earth
 uci-road-raw/country-mappings [uci-road-raw/schema] 2025-02-11T19:38:00Z Marge <marge@example.com> # Mappings between ISO and IOC country codes
 uci-road-raw/subunits [uci-road-raw/schema] 2025-02-11T20:12:12Z Marge <marge@example.com> # Data set with a more detailed breakdown of countries
+uci-road-raw/units [uci-road-raw/schema] 2025-02-12T15:11:38Z Marge <marge@example.com> # Create map units NED table
+uci-road-raw/sovereign-states [uci-road-raw/schema] 2025-02-12T15:11:38Z Marge <marge@example.com> # Create sovereign states NED table
+uci-road/countries/create-table [uci-road/schema] 2025-02-12T14:15:39Z Marge <marge@example.com> # Create countries table with iso code, ioc code, full name and geometry

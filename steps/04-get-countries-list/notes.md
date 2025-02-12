@@ -1,3 +1,5 @@
+[TOC]
+
 # Get list of countries
 
 get an external list of countries, perhaps with geographic coordinates
@@ -63,3 +65,47 @@ We can save those in one countries table with
 - [x] Check out the readme of subunits download
 
 https://gis.stackexchange.com/a/490330/286714
+
+> No indexes have been created yet. Don't forget to do so if some query is not running fast enough.
+
+## subunits issue
+
+Too many entries for single countries. Let's try the map units data set.
+
+## Combination of sovereign states units
+
+### Error: Key (iso_code)=(ATG) already exists
+
+Duplicate entries in the data set units?
+
+Not in sovereign states, the issue is that query won't stop joining if the first join works
+
+### Error: Key (iso_code)=(CHN) already exists
+
+duplicate entries in the data set units?
+
+China is not in the sovereign states data set! And has a duplicate entry in the map units data set.
+
+Let's try joining on gu_a3
+
+### ERROR:  null value in column "name" of relation "countries" violates not-null constraint
+DETAIL:  Failing row contains (32, FRA, FRA, null, null).
+
+- FRA is not an entry in sovereign states.
+- also not in units
+
+use iso_a3 instead of gu_a3
+
+### ERROR:  null value in column "name" of relation "countries" violates not-null constraint
+DETAIL:  Failing row contains (33, GBR, GBR, null, null).
+
+Perhaps we should use countries after all? Together with units
+
+### ERROR:  duplicate key value violates unique constraint "countries_iso_code_key"
+DETAIL:  Key (iso_code)=(ATG) already exists.
+
+duplicate entries in the data set units?
+
+perhaps combine all three: first check countries, then sovereign states, then units
+
+HALLELUJAH!
