@@ -48,6 +48,8 @@ Try map subunits
 
 I mistakenly took small scale the first time, let's go for large scale now
 
+https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-details/
+
 Conclusion: use adm0_a3 together with the mappings
 
 We can save those in one countries table with
@@ -57,3 +59,7 @@ We can save those in one countries table with
 - ioc_code (which is the same if it's not mapped)
 - name_en (this is the full name)
 - geometry
+
+- [x] Check out the readme of subunits download
+
+https://gis.stackexchange.com/a/490330/286714
