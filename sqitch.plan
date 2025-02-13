@@ -22,3 +22,4 @@ uci-road-raw/units [uci-road-raw/schema] 2025-02-12T15:11:38Z Marge <marge@examp
 uci-road-raw/sovereign-states [uci-road-raw/schema] 2025-02-12T15:11:38Z Marge <marge@example.com> # Create sovereign states NED table
 uci-road/countries/create-table [uci-road/schema] 2025-02-12T14:15:39Z Marge <marge@example.com> # Create countries table with iso code, ioc code, full name and geometry
 uci-road/races/create-table [uci-road/calendars/create-table uci-road/categories/create-table uci-road/countries/create-table uci-road-raw/races] 2025-02-13T09:45:41Z Marge <marge@example.com> # Create normalized table of uci road races
+@v1.0.0 2025-02-13T11:07:55Z Marge <marge@example.com> # Raw data has been extracted and transformed to normalized tables
