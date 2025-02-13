@@ -8,6 +8,7 @@ CREATE TABLE uci_road.countries (
     iso_code varchar(3) NOT NULL UNIQUE,
     ioc_code varchar(3) NOT NULL UNIQUE,
     name text NOT NULL,
+    population bigint NOT NULL,
     geom GEOMETRY (MULTIPOLYGON, 4326) NOT NULL
 );
 
@@ -22,11 +23,12 @@ WITH race_countries AS (
         ON races.country = country_mappings.ioc_code
     ORDER BY iso_code
 )
-INSERT INTO uci_road.countries (iso_code, ioc_code, name, geom)
+INSERT INTO uci_road.countries (iso_code, ioc_code, name, population, geom)
 SELECT
     race_countries.iso_code,
     race_countries.ioc_code,
     COALESCE(countries.name_en, sovereign_states.name_en, units.name_en) AS name,
+    COALESCE(countries.pop_est, sovereign_states.pop_est, units.pop_est) AS population,
     COALESCE(countries.geom, sovereign_states.geom, units.geom) AS geom
 FROM race_countries
 LEFT JOIN uci_road_raw.countries
@@ -40,5 +42,7 @@ LEFT JOIN uci_road_raw.units
         countries.gid IS null
         AND sovereign_states.gid IS null
         AND race_countries.iso_code = units.adm0_a3;
+
+COMMENT ON COLUMN uci_road.countries.population IS 'Population estimates are from 2019 with a few exceptions.';
 
 COMMIT;
