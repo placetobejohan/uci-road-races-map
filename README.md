@@ -7,6 +7,21 @@ The goal of this project is to create a map of the UCI World Tour cycling races.
 
 datasette setup
 
+### Extract data from postgres to SQLite
+
+```
+python3 -m venv .venv
+source .venv/bin/activate
+pip install psycopg sqlite-utils
+```
+
+### Installation
+
+```
+pipx install datasette
+```
+
+
 ## Tech stack
 
 ### Python
