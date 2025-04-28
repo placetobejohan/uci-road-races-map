@@ -5,8 +5,6 @@ The goal of this project is to create a map of the UCI World Tour cycling races.
 
 ## Display data
 
-datasette setup
-
 ### Extract data from postgres to SQLite
 
 ```
@@ -21,6 +19,11 @@ pip install psycopg sqlite-utils
 pipx install datasette
 ```
 
+### Run datasette
+
+```
+datasette data/uci_road.db
+```
 
 ## Tech stack
 
