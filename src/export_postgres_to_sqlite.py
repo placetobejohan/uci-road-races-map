@@ -1,11 +1,14 @@
+"""
+Export data from PostgreSQL to SQLite.
+"""
+
 import os
 import psycopg
 import sqlite_utils
 from types import SimpleNamespace
+from pg_config import PG_CONN_STR, PG_SCHEMA
 
 # --- Config ---
-PG_CONN_STR = "dbname=pro_cycling user=postgres password=postgres host=localhost"
-PG_SCHEMA = "uci_road"
 SQLITE_DB_PATH = "data/uci_road.db"
 # ----------------
 
