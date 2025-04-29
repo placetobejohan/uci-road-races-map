@@ -81,16 +81,22 @@ def export_table(cursor, schema, table_name, sqlite_db):
     """Export a table from Postgres to SQLite."""
     columns = get_column_names(cursor, schema, table_name)
 
-    # Build SELECT clause, replacing geometry with ST_AsGeoJSON
+    # Build SELECT clause, replacing geometry with longitude and latitude
     select_parts = []
     for col in columns:
         if col == "geom":
-            select_parts.append(f"postgis.st_asgeojson({col}) AS {col}")
+            select_parts.append(
+                f"postgis.st_x(postgis.ST_PointOnSurface({col})) AS longitude"
+            )
+            select_parts.append(
+                f"postgis.st_y(postgis.ST_PointOnSurface({col})) AS latitude"
+            )
         else:
             select_parts.append(col)
     select_clause = ", ".join(select_parts)
 
     cursor.execute(f"SELECT {select_clause} FROM {schema}.{table_name}")
+    columns = [desc[0] for desc in cursor.description]
     rows = cursor.fetchall()
     data = [dict(zip(columns, row)) for row in rows]
 

@@ -25,6 +25,14 @@ pipx install datasette
 datasette data/uci_road.db
 ```
 
+### Add map
+
+https://datasette.io/plugins/datasette-cluster-map
+
+```
+datasette install datasette-cluster-map
+```
+
 ## Tech stack
 
 ### Python
