@@ -25,3 +25,4 @@ uci-road/races/create-table [uci-road/calendars/create-table uci-road/categories
 @v1.0.0 2025-02-13T11:07:55Z Johan <johan.md.maes@gmail.com> # Raw data has been extracted and transformed to normalized tables
 
 uci-road-datasette/schema 2025-04-30T07:16:47Z Johan <johan.md.maes@gmail.com> # Create schema for transformed data for the datasette sqlite db
+uci-road-datasette/countries 2025-04-30T07:37:51Z Johan <johan.md.maes@gmail.com> # Add countries table with transformed data for datasette
