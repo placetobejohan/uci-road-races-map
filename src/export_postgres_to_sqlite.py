@@ -10,6 +10,7 @@ from pg_config import PG_CONN_STR, PG_SCHEMA
 
 # --- Config ---
 SQLITE_DB_PATH = "data/uci_road.db"
+DATASETTE_SCHEMA = "uci_road_datasette"  # New schema for data transformation
 # ----------------
 
 
@@ -100,7 +101,7 @@ def export_table(cursor, schema, table_name, sqlite_db):
     rows = cursor.fetchall()
     data = [dict(zip(columns, row)) for row in rows]
 
-    print(f"Inserting {len(data)} rows into {table_name}")
+    print(f"Inserting {len(data)} rows into {table_name} from {schema}")
     sqlite_db[table_name].insert_all(data, pk="id")
 
 
@@ -110,17 +111,30 @@ def main():
         os.remove(SQLITE_DB_PATH)
 
     sqlite_db = sqlite_utils.Database(SQLITE_DB_PATH)
+    exported_tables = set()
 
     with psycopg.connect(PG_CONN_STR) as pg_conn:
         with pg_conn.cursor() as pg_cur:
-            tables = get_table_names(pg_cur, PG_SCHEMA)
+            # First, export tables from the datasette schema
+            print(f"Exporting tables from {DATASETTE_SCHEMA} schema...")
+            datasette_tables = get_table_names(pg_cur, DATASETTE_SCHEMA)
 
-            # Export each table to SQLite
-            for table_name in tables:
-                export_table(pg_cur, PG_SCHEMA, table_name, sqlite_db)
+            for table_name in datasette_tables:
+                export_table(pg_cur, DATASETTE_SCHEMA, table_name, sqlite_db)
+                exported_tables.add(table_name)
 
-            # Add foreign keys
-            for table_name in tables:
+            # Then, export tables from the main schema that don't exist in datasette schema
+            print(f"Exporting missing tables from {PG_SCHEMA} schema...")
+            main_tables = get_table_names(pg_cur, PG_SCHEMA)
+
+            for table_name in main_tables:
+                if table_name not in exported_tables:
+                    export_table(pg_cur, PG_SCHEMA, table_name, sqlite_db)
+
+            # Add foreign keys from the main schema only
+            print("Adding foreign key constraints from main schema...")
+            all_tables = get_table_names(pg_cur, PG_SCHEMA)
+            for table_name in all_tables:
                 foreign_constraints = get_foreign_constraints(
                     pg_cur, PG_SCHEMA, table_name
                 )
@@ -128,9 +142,12 @@ def main():
                     print(
                         f"Adding foreign key constraint {table_name}.{fk.column} -> {fk.foreign_table}.{fk.foreign_column}"
                     )
-                    sqlite_db[table_name].add_foreign_key(
-                        fk.column, fk.foreign_table, fk.foreign_column
-                    )
+                    try:
+                        sqlite_db[table_name].add_foreign_key(
+                            fk.column, fk.foreign_table, fk.foreign_column
+                        )
+                    except Exception as e:
+                        print(f"Warning: Could not add foreign key: {e}")
 
     print("Done.")
 
