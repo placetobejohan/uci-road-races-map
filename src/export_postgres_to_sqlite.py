@@ -7,6 +7,7 @@ import psycopg
 import sqlite_utils
 from types import SimpleNamespace
 from pg_config import PG_CONN_STR, PG_SCHEMA
+from clean_up_website_urls import main as clean_up_website_urls
 
 # --- Config ---
 SQLITE_DB_PATH = "data/uci_road.db"
@@ -109,6 +110,9 @@ def main():
     # Remove the existing sqlite file
     if os.path.exists(SQLITE_DB_PATH):
         os.remove(SQLITE_DB_PATH)
+
+    # In case the data has been updated, clean up the website URLs again
+    clean_up_website_urls()
 
     sqlite_db = sqlite_utils.Database(SQLITE_DB_PATH)
     exported_tables = set()

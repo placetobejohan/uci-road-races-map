@@ -8,6 +8,7 @@ from pg_config import PG_CONN_STR, PG_SCHEMA
 
 
 def main():
+    print("Cleaning up website URLs...")
     with psycopg.connect(PG_CONN_STR) as pg_conn:
         with pg_conn.cursor() as pg_cur:
             # Add https to any website URLs that don't have it
